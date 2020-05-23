@@ -1,0 +1,23 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "expect": "^26.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://natali777@bitbucket.org/natali777/task2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/natali777/task2#readme"
+}
